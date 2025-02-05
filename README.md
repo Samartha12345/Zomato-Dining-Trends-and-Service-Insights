@@ -17,9 +17,9 @@ Insights Gained:
 4) Having Online delivery has positive impact on Avg Rating of Restaurents
 
 # Tools and Technologies
-Power BI: For building and designing the dashboard.
-Data Source: (Add details if available, e.g., CSV, SQL Database)
-Data Preparation: Preprocessing performed in Power Query.
+1)Power BI: For building and designing the dashboard.
+2)Data Source: (Add details if available, e.g., CSV, SQL Database)
+3)Data Preparation: Preprocessing performed in Power Query.
 
 # How to Use
 Open the Power BI file (.pbix) in Power BI Desktop.
